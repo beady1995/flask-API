@@ -1,4 +1,3 @@
-# flask-API
 This is a website for FE595 midterm, given by Group 3.
 We have six functions.
 The function count() is used to count the 10 most comment words in the text requst send. 

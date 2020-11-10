@@ -6,5 +6,5 @@ The function tokeniz() is used to tokenize the text or sentences that the requst
 The function freq() is used to compute the frequence of words in the text the request send, and it display the frequency plot.  
 The function remove() is used to remove the stopwords in the tokens of the text you enter.  
 The function lower_case() is used to lower the words in the text you enter.  
-The function pos_tagging() is used to labele words in the text user enter such as nouns, adjectives, verbs...etc.
+The function pos_tagging() is used to labele words in the text user enter such as nouns, adjectives, verbs...etc.  
 The function remove_pun() is used to remove punctation in the text user enters.
